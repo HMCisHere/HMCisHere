@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Arshia Sadrrezvani — AI-Powered Full-Stack Web Engineer" width="100%" />
+<img src="gif.gif" alt="Arshia Sadrrezvani — AI-Powered Full-Stack Web Engineer" width="100%" />
 
 <br/>
 
